@@ -1,7 +1,8 @@
 # xiaomanai Writer - AI That Writes Like YOU
 
 <div align="center">
-  
+<!-- 添加LOGO -->
+<img src="./LOGO-2.png" alt="xiaomanai Logo" width="200"/>  
   **Keep your personal writing style while leveraging AI's efficiency**
   
   [🌐 Website](https://xiaomanai.cn) • [✨ Features](https://xiaomanai.cn/features.html) • [📖 Tutorial](https://xiaomanai.cn/tutorial.html) • [🇨🇳 中文文档](./README_CN.md)
