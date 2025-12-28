@@ -4,8 +4,8 @@
 
 <a href="https://xiaomanai.cn" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./LOGO-2.png">
-    <source media="(prefers-color-scheme: light)" srcset="./LOGO.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./LOGO.png">
+    <source media="(prefers-color-scheme: light)" srcset="./LOGO-2.png">
     <img alt="xiaomanai Writer - AI That Writes Like YOU" src="./LOGO-2.png" width="400">
   </picture>
 </a>
