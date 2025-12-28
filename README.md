@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 <a href="https://xiaomanai.cn" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./LOGO.png">
