@@ -1,10 +1,21 @@
 # 小满AI写作 - 让AI像你一样写作
 
 <div align="center">
+
+<a href="https://xiaomanai.cn" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./LOGO-2.png">
+    <source media="(prefers-color-scheme: light)" srcset="./LOGO.png">
+    <img alt="小满AI写作 - 让AI像你一样写作" src="./LOGO-2.png" width="400">
+  </picture>
+</a>
+
+<br/>
+<br/>
   
-  **在享受AI效率的同时,保持你的个人写作风格**
+**在享受AI效率的同时,保持你的个人写作风格**
   
-  [🌐 官网](https://xiaomanai.cn) • [✨ 功能介绍](https://xiaomanai.cn/features.html) • [📖 使用教程](https://xiaomanai.cn/tutorial.html) • [🇺🇸 English](./README.md)
+[🌐 官网](https://xiaomanai.cn) • [✨ 功能介绍](https://xiaomanai.cn/features.html) • [📖 使用教程](https://xiaomanai.cn/tutorial.html) • [🇺🇸 English](./README.md)
 
   ![状态](https://img.shields.io/badge/status-活跃-success)
   ![平台](https://img.shields.io/badge/platform-web-blue)
